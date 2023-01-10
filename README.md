@@ -1,4 +1,4 @@
-#BARBEARIA ALURA
+<h1>BARBEARIA ALURA</h1>
 
 
 <img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge"/>
