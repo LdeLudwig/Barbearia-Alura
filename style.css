@@ -160,6 +160,7 @@ th, td{
 /* CSS da pagina principal*/
 .banner{
     width: 100%;
+    height: fit-content;
 }
 
 .titulo-principal{
@@ -255,20 +256,20 @@ th, td{
     margin: 2em auto;
 }
 
-@media screen and (max-width: 480px){
-    .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video{
+@media screen and (max-width: 480px) {
+    .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video {
         width: auto;
     }
 
-    h1{
+    h1 {
         text-align: center;
     }
 
-    nav{
+    nav {
         position: static;
     }
 
-    .lista-beneficios, .imagem-beneficios{
+    .lista-beneficios, .imagem-beneficios {
         width: 100%;
     }
 }
